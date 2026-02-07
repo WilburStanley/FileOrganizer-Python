@@ -4,6 +4,8 @@
 
 ---
 
+![image alt](https://github.com/WilburStanley/FileOrganizer-Python/blob/9b562488bdfdaa1d2f7fa363fd44a6195d867d36/exe-img.png)
+
 ## 📋 Features
 
 ### **Core Functionality**
